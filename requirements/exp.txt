@@ -1,0 +1,4 @@
+memory-profiler
+pytest-benchmark
+tikzplotlib
+palettable

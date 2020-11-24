@@ -1,0 +1,10 @@
+matplotlib
+numpy
+pandas
+scipy
+seaborn
+-e git://github.com/ahthie7u/backobs.git@0e8803ada481da7ba12ae7f2106c52a6ffa3b2f9#egg=backobs
+-e git://github.com/ahthie7u/backpack.git@e27af73aa03f0c8472636285c6011fde1963ce54#egg=backpack
+-e git://github.com/fsschneider/DeepOBS.git@bfb1eb35e45b913f916dddf15165d23e0a40de00#egg=deepobs
+torch==1.6.0
+torchvision==0.7.0
